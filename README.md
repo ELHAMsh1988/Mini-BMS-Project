@@ -21,11 +21,14 @@ Mini BMS Simulation: Embedded C &amp; Python for battery management
 
 ## Simulation Results
 
+
 ### Battery Voltage
-![Voltage](voltage_chart.png)
+<img width="640" height="480" alt="IMG_9386" src="https://github.com/user-attachments/assets/e2abf0c9-f991-41d0-bbf4-c2d5ccf86904" />
+
 
 ### Battery Temperature
-![Temperature](temperature_chart.png)
+<img width="640" height="480" alt="IMG_9387" src="https://github.com/user-attachments/assets/5c169d7a-2fcb-4eba-b7b6-42ef2b1b894e" />
+
 
 ### Battery Current
-![Current](current_chart.png)
+<img width="640" height="480" alt="IMG_9388" src="https://github.com/user-attachments/assets/1c77e18f-dd7a-4b28-bea0-beb8a6306f84" />
