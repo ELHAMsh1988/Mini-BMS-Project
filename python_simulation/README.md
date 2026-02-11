@@ -21,8 +21,16 @@ python simulate_bms.py
 - Basic battery logic
 - Data visualization with Matplotlib
 - Engineering-oriented debugging workflow
+  
 
 python_simulation/
  ├── simulate_bms.py
  ├── requirements.txt
  └── README.md 
+
+
+
+
+
+
+
